@@ -1,0 +1,4 @@
+module DeviceMargin {
+    header "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/DeviceMargin-Swift.h"
+    requires objc
+}

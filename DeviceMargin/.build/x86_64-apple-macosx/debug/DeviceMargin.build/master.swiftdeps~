@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "a8c9b5ad4071cf49cef501b2df5dd1ec"
+build_time: [1651726496, 398999000]
+inputs:
+  "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/Sources/DeviceMargin/Extensions/Pages/main.page.ext.swift": [1651503393, 821225646]
+  "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/Sources/DeviceMargin/main.page.swift": [1651726494, 247277049]
+  "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/Sources/DeviceMargin/start.swift": [1651492611, 837652051]

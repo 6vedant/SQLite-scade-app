@@ -1,0 +1,14 @@
+{
+    "/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../cmake/projects/empty.swift": {
+        "object": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/DeviceMargin.swiftbuild/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../cmake/projects/empty.swift.o",
+        "dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/DeviceMargin.swiftbuild/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../cmake/projects/empty.swift.dep"
+    },
+    "/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../lib/iphonesimulator/src/ViewController.swift": {
+        "object": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/DeviceMargin.swiftbuild/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../lib/iphonesimulator/src/ViewController.swift.o",
+        "dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/DeviceMargin.swiftbuild/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../lib/iphonesimulator/src/ViewController.swift.dep"
+    },
+    "/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../lib/iphonesimulator/src/AppDelegate.swift": {
+        "object": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/DeviceMargin.swiftbuild/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../lib/iphonesimulator/src/AppDelegate.swift.o",
+        "dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/DeviceMargin.swiftbuild/Applications/Scade.app/Contents/PlugIns/ScadeSDK.plugin/Contents/Resources/Libraries/ScadeSDK/cmake/modules/../../lib/iphonesimulator/src/AppDelegate.swift.dep"
+    }
+}

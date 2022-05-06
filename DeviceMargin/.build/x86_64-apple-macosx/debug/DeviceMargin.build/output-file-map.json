@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/master.swiftdeps"
+  },
+  "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/Sources/DeviceMargin/Extensions/Pages/main.page.ext.swift": {
+    "dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/Extensions/Pages/main.page.ext.d",
+    "object": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/Extensions/Pages/main.page.ext.swift.o",
+    "swiftmodule": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/Extensions/Pages/main.page.ext~partial.swiftmodule",
+    "swift-dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/Extensions/Pages/main.page.ext.swiftdeps"
+  },
+  "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/Sources/DeviceMargin/main.page.swift": {
+    "dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/main.page.d",
+    "object": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/main.page.swift.o",
+    "swiftmodule": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/main.page~partial.swiftmodule",
+    "swift-dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/main.page.swiftdeps"
+  },
+  "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/Sources/DeviceMargin/start.swift": {
+    "dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/start.d",
+    "object": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/start.swift.o",
+    "swiftmodule": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/start~partial.swiftmodule",
+    "swift-dependencies": "/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/x86_64-apple-macosx/debug/DeviceMargin.build/start.swiftdeps"
+  }
+}

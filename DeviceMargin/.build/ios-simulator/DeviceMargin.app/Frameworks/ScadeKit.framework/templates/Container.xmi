@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:widget="http://scade.com/sdk/view/widgets" xmlns:svg="http://scade.com/svg/draw">
+  <widget:Container name="container" drawing="/1">
+    <minArea/>
+    <maxArea width="-1" height="-1"/>
+  </widget:Container>
+  <svg:Box>
+    <children xsi:type="svg:Group" attributes="{&quot;template-id&quot;:&quot;content&quot;}"/>
+  </svg:Box>
+</xmi:XMI>

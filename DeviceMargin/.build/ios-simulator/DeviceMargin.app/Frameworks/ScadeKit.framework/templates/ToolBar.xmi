@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:layout="http://scade.com/sdk/layout" xmlns:widget="http://scade.com/sdk/view/widgets" xmlns:svg="http://scade.com/svg/draw">
+  <widget:ToolBar name="toolBar" drawing="/1">
+    <size width="100" height="52"/>
+    <layout xsi:type="layout:GridLayout" columns="1"/>
+    <minArea width="100" height="52"/>
+    <maxArea width="-1" height="-1"/>
+  </widget:ToolBar>
+  <svg:Box>
+    <children xsi:type="svg:Group" attributes="{&quot;template-id&quot;:&quot;content&quot;}" />
+  </svg:Box>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:scade="http://www.scade.io/v0.1" widget-name="main" eObject-URI="main.page#/0" width="414" height="736">
+  <g template-id="content">
+    <svg eObject-URI="main.page#/0/@children.0" widget-name="button" x="192" width="86" height="23" y="18">
+      <g template-id="content">
+        <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="43" y="11.5" fill="#446ab3">button</text>
+      </g>
+    </svg>
+  </g>
+</svg>

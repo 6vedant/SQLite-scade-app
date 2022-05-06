@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:widget="http://scade.com/sdk/view/widgets" xmlns:svg="http://scade.com/svg/draw" xmlns:svg.color="http://scade.com/svg/style/color">
+  <widget:SliderLine name="sliderLine" drawing="/1">
+    <size width="120" height="36"/>
+  </widget:SliderLine>
+  <svg:Box>
+    <children xsi:type="svg:Group" attributes="{&quot;template-id&quot;:&quot;content&quot;}">
+      <children xsi:type="svg:Rect" attributes="{&quot;template-id&quot;:&quot;node-line&quot;}">
+        <fill xsi:type="svg.color:RGBColor" r="0.70980394" g="0.7137255" b="0.70980394"/>
+        <width value="240.0"/>
+        <height value="2.0"/>
+      </children>
+      <children xsi:type="svg:Rect" attributes="{&quot;template-id&quot;:&quot;node-fill&quot;}">
+        <fill xsi:type="svg.color:RGBColor" g="0.47843137" b="1.0"/>
+        <width value="1.0"/>
+        <height value="2.0"/>
+      </children>
+      <children xsi:type="svg:Box" attributes="{&quot;template-id&quot;:&quot;node-bullet&quot;}">
+        <children xsi:type="svg:Ellipse">
+          <fill xsi:type="svg.color:RGBColor" r="1.0" g="1.0" b="1.0"/>
+          <stroke xsi:type="svg.color:RGBColor" r="0.85882354" g="0.85882354" b="0.85882354"/>
+          <cx value="50" measurement="PERCENTAGE"/>
+          <cy value="50" measurement="PERCENTAGE"/>
+          <rx value="50" measurement="PERCENTAGE"/>
+          <ry value="50" measurement="PERCENTAGE"/>
+        </children>
+        <width value="28"/>
+        <height value="28"/>
+      </children>
+    </children>
+  </svg:Box>
+</xmi:XMI>

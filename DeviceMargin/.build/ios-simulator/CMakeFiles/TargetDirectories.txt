@@ -1,0 +1,6 @@
+/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/CMakeFiles/rebuild_cache.dir
+/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/CMakeFiles/DeviceMargin-build-spm.dir
+/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/CMakeFiles/edit_cache.dir
+/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/CMakeFiles/DeviceMargin-app-copy.dir
+/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/CMakeFiles/DeviceMargin-app.dir
+/Users/vj/Desktop/upfreel/ScadeApps/UgExamples/UgSqlLiteSwift/DeviceMargin/.build/ios-simulator/CMakeFiles/DeviceMargin.dir

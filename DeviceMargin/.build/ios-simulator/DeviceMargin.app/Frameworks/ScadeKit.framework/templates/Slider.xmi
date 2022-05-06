@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:layout="http://scade.com/sdk/layout" xmlns:widget="http://scade.com/sdk/view/widgets" xmlns:widget.layout="http://scade.com/sdk/view/widgets/layout" xmlns:svg="http://scade.com/svg/draw">
+  <widget:Slider name="slider" drawing="/1">
+    <size width="100" height="100"/>
+    <layout xsi:type="widget.layout:SliderLayout"/>
+    <maxArea width="-1" height="-1"/>
+    <template xsi:type="widget:GridView" name="template1" drawing="/1/@children.0/@children.0">
+      <layoutData xsi:type="layout:GridData" grabHorizontalSpace="true" grabVerticalSpace="true" widthConstraint="MATCH_PARENT" heightConstraint="MATCH_PARENT">
+        <minSize/>
+      </layoutData>
+      <size width="100" height="100"/>
+      <layout xsi:type="layout:GridLayout" marginTop="5" marginBottom="5" marginLeft="5" marginRight="5"/>
+      <minArea/>
+      <maxArea width="-1" height="-1"/>
+    </template>
+  </widget:Slider>
+  <svg:Box>
+    <children xsi:type="svg:ScrollGroup" attributes="{&quot;template-id&quot;:&quot;sliderScrollGroup&quot;,&quot;paging&quot;:&quot;true&quot;}" type="horizontal">
+      <children xsi:type="svg:Box" attributes="{&quot;template-id&quot;:&quot;sliderTemplate&quot;}">
+        <children xsi:type="svg:Group" attributes="{&quot;template-id&quot;:&quot;content&quot;}"/>
+      </children>
+    </children>
+  </svg:Box>
+</xmi:XMI>

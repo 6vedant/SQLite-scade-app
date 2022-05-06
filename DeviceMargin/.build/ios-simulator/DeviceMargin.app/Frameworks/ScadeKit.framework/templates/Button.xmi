@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:widget="http://scade.com/sdk/view/widgets" xmlns:svg="http://scade.com/svg/draw">
+  <widget:Button name="button" drawing="/1" text="button" horizontalAlignment="CENTER">
+    <size width="86" height="23"/>
+    <font fontFamily="ArialMT" size="17">
+      <color Red="68" Green="106" Blue="179"/>
+    </font>
+  </widget:Button>
+  <svg:Box>
+    <children xsi:type="svg:Group" attributes="{&quot;template-id&quot;:&quot;content&quot;}">
+      <children xsi:type="svg:Text" attributes="{&quot;template-id&quot;:&quot;node-text&quot;}"/>
+    </children>
+  </svg:Box>
+</xmi:XMI>
